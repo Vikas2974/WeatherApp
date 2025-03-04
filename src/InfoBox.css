@@ -1,0 +1,23 @@
+.InfoBox {
+    text-align: center;
+}
+
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+    
+}
+.whole{
+ background-color: #edb2df ;
+ border-radius: 5%;
+ border: solid black 1px;
+ padding: 10px;
+ text-decoration: solid;
+ box-shadow: black;
+}
+.photu{
+    width: 90%;
+    margin-left: 18px;
+    margin-top: 18px;
+    border-radius: 2%;
+}
