@@ -1,0 +1,1 @@
+This is a modern and user-friendly weather application built using React and Tailwind CSS. It allows users to search for real-time weather conditions of any city worldwide. The app fetches data from the OpenWeatherMap API and displays information such as temperature, humidity, weather conditions, and more.
